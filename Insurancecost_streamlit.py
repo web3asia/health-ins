@@ -7,6 +7,9 @@ This is a temporary script file.
 
 import streamlit as st
 import joblib
+import numpy
+import matplotlib
+import scikit-learn
 
 def main():
     html_temp = """
